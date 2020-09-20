@@ -1,2 +1,3 @@
 # hello-world
-becoming familiar with github through basic operations such as hello world.
+
+Hello all! parlaymars here, a current UTSA cyber security student, world traveler, and antique book collector. 
